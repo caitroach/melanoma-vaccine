@@ -8,7 +8,7 @@ I made this project as a GUI for MHCflurry w/gradio and evaluated it on a clinic
 This was a very simple project based on existing neural net tools and was really cool to explore. Future work could integrate computational epitope prediction with deep learning models to create an open-source vaccine design tool for cancer researchers.
 
 ## citations
-Full citations for the paper can be found in the paper, which was uploaded here. Notable resources and studies include: 
+Full citations for this project can be found in the uploaded PDF. Notable resources and studies include: 
 
 - Farrell, D. (2021). epitopepredict: a tool for integrated mhc
 binding prediction. GigaByte.
